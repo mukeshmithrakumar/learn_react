@@ -1,0 +1,1 @@
+ReactDOM.render(<ul><li>Learn React</li><li>React Advanced</li></ul>, document.getElementById('root'))
